@@ -32,7 +32,7 @@
 ## **📲Hosting**
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4b4147474c452d626c7565](https://user-images.githubusercontent.com/91897199/160983675-3239631e-6c12-453a-a13e-752c9570419c.svg)
+
 
 ## **🛠Frameworks**
 
