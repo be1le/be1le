@@ -4,7 +4,7 @@
 
 | Age | interests | Hobby | development slogan |
 | :- | - | :-: | :-: |
-| 24(KR) | ML/DL/AI | weight training | "Don't reinvent the wheel" |
+| 24(KR) | ML/DL/AI | weight training | "Beauty outside. Beast inside." |
 ---
 
 
