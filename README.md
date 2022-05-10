@@ -10,7 +10,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Stacks&height=150&animation=fadeIn&fontColor=6666CC&color=0000CC)
 
-![a](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEVhan-HX29KeS8VkRl6sF9sdQjTf2wkwb9A&usqp=CAU)
+![a](https://miro.medium.com/max/1400/1*bhFifratH9DjKqMBTeQG5A.gif)
 
 ## **💾Databases**
 
